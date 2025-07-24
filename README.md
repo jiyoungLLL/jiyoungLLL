@@ -56,3 +56,11 @@ Studying frontend tech stack & building portfolio projects
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoungLLL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiyoungLLL&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jiyoungLLL"
+  width="600"
+  height="300"
+/>
+</a>
