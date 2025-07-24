@@ -8,10 +8,16 @@
 ### Hi, I'm Ji-young 👋
 
 I'm an aspiring **frontend developer** who values user experience.  
+<br/><br/>
+**🎓 Education** <br/>
+- Sookmyung Women’s University, Dept. of IT Engineering (Expected Feb 2026)  
 
-**🎓 Education:** Sookmyung Women’s University, Dept. of IT Engineering (Expected Feb 2026)  
-**💡 Interests:** UI/UX, design systems, user interaction  
-**🔧 Currently:** Studying frontend tech stack & building portfolio projects
+**💡 Interests** <br/>
+- UI/UX, design systems, user interaction  
+
+**🔧 Currently** <br/>
+- Studying frontend tech stack & building portfolio projects
+
 <br/>
 <br/>
 
