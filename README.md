@@ -1,22 +1,21 @@
 ![reversal](https://capsule-render.vercel.app/api?type=speech&text=Ji-young&fontAlign=30&fontAlignY=40&fontSize=40&desc=/**Frontend%20developer**/&descAlign=60&descSize=25&descAlignY=45&theme=radical&reversal=true)
 
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/436945d4-b916-455f-b5cb-b3233ad2c3de" width="160" height="160" margin-right: 16px; float: left;" />
-</p>
+<img src="https://github.com/user-attachments/assets/436945d4-b916-455f-b5cb-b3233ad2c3de" width="300" height="300" align="left" style="margin-right: 60px;" />
 
 ### Hi, I'm Ji-young 👋
 
-I'm an aspiring **frontend developer** who values user experience.  
-<br/><br/>
-**🎓 Education** <br/>
-- Sookmyung Women’s University, Dept. of IT Engineering (Expected Feb 2026)  
+I'm an aspiring **frontend developer** who values user experience.
 
-**💡 Interests** <br/>
-- UI/UX, design systems, user interaction  
+🎓 Education  
+Sookmyung Women’s University, Dept. of IT Engineering  
+(Expected Feb 2026)
 
-**🔧 Currently** <br/>
-- Studying frontend tech stack & building portfolio projects
+💡 Interests  
+UI/UX · Design Systems · User Interaction
+
+🔧 Currently  
+Studying frontend tech stack & building portfolio projects
+
 
 <br/>
 <br/>
