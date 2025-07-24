@@ -1,6 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=speech&text=Ji-young&fontAlign=30&fontAlignY=40&fontSize=40&desc=/**Frontend%20developer**/&descAlign=60&descSize=25&descAlignY=45&theme=radical&reversal=true)
 
-<img src="https://github.com/user-attachments/assets/436945d4-b916-455f-b5cb-b3233ad2c3de" width="290" height="290" align="left" style="margin-right: 60px; margin-top: 10px; padding-right: 40px;" />
+<img src="https://github.com/user-attachments/assets/436945d4-b916-455f-b5cb-b3233ad2c3de" width="285" height="285" align="left" style="margin-right: 60px; margin-top: 10px; padding-right: 40px;" />
 
 ### Hi, I'm Ji-young 👋
 
