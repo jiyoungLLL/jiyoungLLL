@@ -49,7 +49,7 @@ Studying frontend tech stack & building portfolio projects
 
 ## ✨ Activities
 - 오르미 개발팀 (2025.08 ~ )
-- 잇다 서포터즈 7기 (2025.04 ~ 2025.08)
+- 잇다 서포터즈 7기:오르미 (2025.04 ~ 2025.08)
   - 프론트엔드 개발, 스프린트 기반 작업
 - 엘리스 AI 웹 풀스택 트랙 (2024.03 ~ 2024.08)
 
