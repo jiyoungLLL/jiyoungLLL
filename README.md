@@ -5,14 +5,13 @@ I'm an aspiring **frontend developer** who values user experience.
 
 **🎓 Education**  
 Sookmyung Women’s University, Dept. of IT Engineering  
-(Expected Feb 2026)
+(Expected Aug 2026)
 
 **💡 Interests** <br/>
 UI/UX · Design Systems · User Interaction
 
 **🔧 Currently** <br/>
-Studying frontend tech stack & building portfolio projects
-
+Building the frontend for Ormee’s academy admin system and exploring a monorepo structure as the service expands into multiple domains.
 
 
 <br/>
