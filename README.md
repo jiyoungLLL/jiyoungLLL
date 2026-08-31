@@ -51,7 +51,7 @@ Building the frontend for Ormee’s academy admin system and exploring a monorep
 <br/>
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoungLLL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jiyoungLLL)](https://github.com/stats-organization/github-stats-extended)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiyoungLLL&utm_content=farm">
 <img
