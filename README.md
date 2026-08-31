@@ -5,7 +5,6 @@ I'm an aspiring **frontend developer** who values user experience.
 
 **🎓 Education**  
 Sookmyung Women’s University, Dept. of IT Engineering  
-(Expected Aug 2026)
 
 **💡 Interests** <br/>
 UI/UX · Design Systems · User Interaction
